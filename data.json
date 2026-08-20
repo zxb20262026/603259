@@ -1,26 +1,26 @@
 {
   "date": "2026-08-20",
-  "datetime": "2026-08-20 08:02:10",
+  "datetime": "2026-08-20 11:42:43",
   "mode": "早报 ☀️",
   "wuxi_a": {
     "name": "药明康德",
-    "price": 164.0,
-    "prev_close": 167.18,
-    "open": 167.0,
-    "high": 168.5,
-    "low": 162.4,
-    "volume": 55791603,
-    "amount": 9187283094.0,
-    "change": -3.18,
-    "change_pct": -1.9
+    "price": 171.16,
+    "prev_close": 164.0,
+    "open": 171.0,
+    "high": 173.6,
+    "low": 166.63,
+    "volume": 58742661,
+    "amount": 10024664407.0,
+    "change": 7.16,
+    "change_pct": 4.37
   },
   "wuxi_h": {
-    "price": 202.8,
-    "prev_close": 205.2,
-    "change_pct": -1.17
+    "price": 211.2,
+    "prev_close": 202.0,
+    "change_pct": 4.554
   },
   "wuxi_pe": {
-    "pe_ttm": 22.58
+    "pe_ttm": 23.57
   },
   "wuxi_fund": null,
   "wuxi_kline": [
@@ -743,6 +743,14 @@
       "high": 168.5,
       "low": 162.4,
       "volume": 557916.0
+    },
+    {
+      "date": "2026-08-20",
+      "open": 171.0,
+      "close": 171.16,
+      "high": 173.6,
+      "low": 166.63,
+      "volume": 587427.0
     }
   ],
   "wuxi_kline_long": [
@@ -6745,6 +6753,14 @@
       "high": 168.5,
       "low": 162.4,
       "volume": 557916.0
+    },
+    {
+      "date": "2026-08-20",
+      "open": 171.0,
+      "close": 171.16,
+      "high": 173.6,
+      "low": 166.63,
+      "volume": 587427.0
     }
   ],
   "hk_kline": [
@@ -12747,16 +12763,24 @@
       "high": 207.0,
       "low": 201.2,
       "volume": 4889210.0
+    },
+    {
+      "date": "2026-08-20",
+      "open": 208.0,
+      "close": 211.8,
+      "high": 212.8,
+      "low": 204.8,
+      "volume": 5432316.0
     }
   ],
   "market": {
     "上证指数": {
-      "price": 3894.4224,
-      "change_pct": -2.4
+      "price": 3905.2259,
+      "change_pct": 0.28
     },
     "沪深300": {
-      "price": 4588.6955,
-      "change_pct": -2.9
+      "price": 4598.1394,
+      "change_pct": 0.21
     }
   },
   "materials": {
@@ -12789,53 +12813,53 @@
     }
   },
   "lithium_futures": {
-    "price": 154700.0,
-    "prev_settle": 149120.0,
-    "change_pct": 3.74,
+    "price": 153480.0,
+    "prev_settle": 150500.0,
+    "change_pct": 1.98,
     "name": "碳酸锂连续"
   },
   "upstream": {
     "泰坦科技": {
       "code": "sh688133",
-      "price": 22.78,
-      "change_pct": -4.57,
+      "price": 24.21,
+      "change_pct": 6.28,
       "periods": {
-        "5日": -7.36,
-        "15日": 17.6,
-        "30日": 18.15
+        "5日": -1.18,
+        "15日": 22.03,
+        "30日": 19.44
       },
       "trend_summary": "强势上涨，短期反转"
     },
     "阿拉丁": {
       "code": "sh688179",
-      "price": 23.45,
-      "change_pct": -0.8,
+      "price": 21.78,
+      "change_pct": -7.12,
       "periods": {
-        "5日": 7.22,
-        "15日": 47.76,
-        "30日": -17.17
+        "5日": -10.19,
+        "15日": 33.54,
+        "30日": -15.97
       },
-      "trend_summary": "深度回调，加速上涨"
+      "trend_summary": "深度回调，短期反转"
     },
     "皓元医药": {
       "code": "sh688131",
-      "price": 97.0,
-      "change_pct": -3.39,
+      "price": 102.4,
+      "change_pct": 5.57,
       "periods": {
-        "5日": -1.99,
-        "15日": 27.05,
-        "30日": 14.59
+        "5日": 2.32,
+        "15日": 31.76,
+        "30日": 16.8
       },
-      "trend_summary": "强势上涨，短期反转"
+      "trend_summary": "强势上涨"
     },
     "毕得医药": {
       "code": "sh688073",
-      "price": 70.48,
-      "change_pct": -11.51,
+      "price": 76.73,
+      "change_pct": 8.87,
       "periods": {
-        "5日": -16.92,
-        "15日": 56.0,
-        "30日": 41.02
+        "5日": -7.93,
+        "15日": 62.46,
+        "30日": 44.64
       },
       "trend_summary": "强势上涨，短期反转"
     }
@@ -12843,58 +12867,72 @@
   "competitors": {
     "康龙化成": {
       "code": "sz300759",
-      "price": 48.45,
-      "change_pct": -5.28,
+      "price": 51.99,
+      "change_pct": 7.31,
       "periods": {
-        "5日": -2.71,
-        "15日": 34.55,
-        "30日": 56.39
+        "5日": 5.84,
+        "15日": 41.28,
+        "30日": 53.18
       },
-      "trend_summary": "强势上涨，短期反转"
+      "trend_summary": "强势上涨，加速上涨"
     },
     "泰格医药": {
       "code": "sz300347",
-      "price": 51.78,
-      "change_pct": -4.02,
+      "price": 57.48,
+      "change_pct": 11.01,
       "periods": {
-        "5日": -6.4,
-        "15日": 5.61,
-        "30日": 19.17
+        "5日": 2.61,
+        "15日": 14.98,
+        "30日": 21.6
       },
-      "trend_summary": "强势上涨，短期反转"
+      "trend_summary": "强势上涨"
     },
     "凯莱英": {
       "code": "sz002821",
-      "price": 170.59,
-      "change_pct": -3.76,
+      "price": 187.65,
+      "change_pct": 10.0,
       "periods": {
-        "5日": -1.85,
-        "15日": 16.88,
-        "30日": 5.81
+        "5日": 9.61,
+        "15日": 22.93,
+        "30日": 13.45
       },
-      "trend_summary": "稳步上行，短期反转"
+      "trend_summary": "强势上涨，加速上涨"
     }
   },
   "sectors": {
     "医药": {
-      "price": 6668.9773,
-      "change_pct": -1.44
+      "price": 6901.5854,
+      "change_pct": 3.49
     },
     "CXO": {
-      "price": 6798.225,
-      "change_pct": -2.76
+      "price": 7187.996,
+      "change_pct": 5.73
     },
     "创新药": {
-      "price": 3625.4057,
-      "change_pct": -3.13
+      "price": 3646.0202,
+      "change_pct": 0.57
     },
     "医疗服务": {
-      "price": 6798.225,
-      "change_pct": -2.76
+      "price": 7187.996,
+      "change_pct": 5.73
     }
   },
   "news": {
     "药明康德": [
+      {
+        "title": "药明康德AH股涨逾5%",
+        "date": "2026-08-20",
+        "source": "东方财富Choice数据",
+        "url": "http://finance.eastmoney.com/a/202608203847431498.html",
+        "content": "药明康德AH股齐走高，涨幅均扩大至逾5%，其中药明康德A股涨5.7%。"
+      },
+      {
+        "title": "药明康德A、H股均涨逾5%",
+        "date": "2026-08-20",
+        "source": "南方财经网",
+        "url": "http://finance.eastmoney.com/a/202608203847452911.html",
+        "content": "南方财经8月20日电，药明康德AH股齐走高，涨幅均扩大至逾5%，其中药明康德A股涨5.7%。"
+      },
       {
         "title": "药明康德A股股价创历史新高",
         "date": "2026-08-17",
@@ -12915,20 +12953,6 @@
         "source": "证券时报网",
         "url": "http://finance.eastmoney.com/a/202608173843094575.html",
         "content": "数据宝统计，截至14:26，药明康德成交额100.03亿元，超100亿元。最新股价上涨4.57%，换手率2.46%。上一交易日该股全天成交额为87.23亿元。（数据宝） 　　注：本文系新闻报道，不构成投资建议，股市有风险，投资需谨慎。"
-      },
-      {
-        "title": "药明康德AH股股价齐创新高",
-        "date": "2026-08-17",
-        "source": "第一财经",
-        "url": "http://finance.eastmoney.com/a/202608173842949991.html",
-        "content": "药明康德AH股齐走高，药明康德A股涨超5%、H股涨4.76%，股价均创历史新高。"
-      },
-      {
-        "title": "瑞银集团在药明康德的H股好仓比例上升0.72%至7.67%",
-        "date": "2026-08-18",
-        "source": "南方财经网",
-        "url": "http://finance.eastmoney.com/a/202608183844624828.html",
-        "content": "南财智讯8月18日电，香港交易所披露信息显示，UBSGroupAG（瑞银集团）在药明康德的H股好仓（L）比例于8月11日从6.95%上升至7.67%。同时淡仓（S）比例从2.84%升至3.24%。"
       }
     ],
     "机构观点": [
@@ -13095,25 +13119,25 @@
         "content": "截至2026年6月末，公司持续经营业务在手订单664.3亿元，同比增长25.2%。 　　公司盈利能力不断提升。报告期内，公司实现毛利155.8亿元，同比增长68.5%，毛利率53.9%，同比增长9.46个百分点。"
       },
       {
+        "title": "药明康德AH股涨逾5%",
+        "date": "2026-08-20",
+        "source": "东方财富Choice数据",
+        "url": "http://finance.eastmoney.com/a/202608203847431498.html",
+        "content": "药明康德AH股齐走高，涨幅均扩大至逾5%，其中药明康德A股涨5.7%。"
+      },
+      {
+        "title": "药明康德A、H股均涨逾5%",
+        "date": "2026-08-20",
+        "source": "南方财经网",
+        "url": "http://finance.eastmoney.com/a/202608203847452911.html",
+        "content": "南方财经8月20日电，药明康德AH股齐走高，涨幅均扩大至逾5%，其中药明康德A股涨5.7%。"
+      },
+      {
         "title": "长景气周期开启 核电产业链订单有望放量",
         "date": "2026-08-20",
         "source": "上海证券报",
         "url": "http://finance.eastmoney.com/a/202608203846732052.html",
         "content": "产业链订单有望放量 　　综合多位业内人士分析来看，行业发展空间明确，产业链上下游受益明显，相关上市公司订单有望持续放量。"
-      },
-      {
-        "title": "药明康德A股股价创历史新高",
-        "date": "2026-08-17",
-        "source": "北京商报",
-        "url": "http://finance.eastmoney.com/a/202608173842974944.html",
-        "content": "8月17日，药明康德（603259）A股开盘后逐渐走高，盘中一度涨超5%，触及168.38元/股的历史新高。 　　截至午间收盘，药明康德A股股价报166.9元/股，涨幅达4.81%，对应总市值约4980亿元。"
-      },
-      {
-        "title": "芯原股份：今年目前新签订单增长至151.42亿元 AI算力相关订单占比90%",
-        "date": "2026-08-19",
-        "source": "人民财讯",
-        "url": "http://finance.eastmoney.com/a/202608193845743774.html",
-        "content": "芯原股份8月17日在电话会议表示，2026年1月1日至8月17日，公司新签订单进一步增长至151.42亿元，AI算力相关订单占比90%，数据处理领域订单占比89%。上述订单具备明确转化预期，但收入转化需要一定时间周期。"
       }
     ]
   },
@@ -13123,62 +13147,62 @@
     "peers": {
       "药明康德": {
         "code": "sh603259",
-        "price": 164.0,
-        "pe": 22.58,
-        "pb": 5.87,
+        "price": 171.16,
+        "pe": 23.57,
+        "pb": 6.13,
         "roe": 26.0,
-        "peg": 0.9,
-        "mcap": 4893.36,
+        "peg": 0.94,
+        "mcap": 5107.0,
         "score": "合理"
       },
       "康龙化成": {
         "code": "sz300759",
-        "price": 48.45,
-        "pe": 52.56,
-        "pb": 5.53,
+        "price": 51.99,
+        "pe": 56.4,
+        "pb": 5.94,
         "roe": 10.29,
-        "peg": 2.1,
-        "mcap": 890.16,
+        "peg": 2.26,
+        "mcap": 955.2,
         "score": "高估"
       },
       "泰格医药": {
         "code": "sz300347",
-        "price": 51.78,
-        "pe": 57.79,
-        "pb": 2.14,
+        "price": 57.48,
+        "pe": 64.15,
+        "pb": 2.38,
         "roe": 3.69,
-        "peg": 2.31,
-        "mcap": 445.84,
+        "peg": 2.57,
+        "mcap": 494.92,
         "score": "高估"
       },
       "凯莱英": {
         "code": "sz002821",
-        "price": 170.59,
-        "pe": 55.43,
-        "pb": 3.51,
+        "price": 187.65,
+        "pe": 60.96,
+        "pb": 3.86,
         "roe": 6.18,
-        "peg": 2.22,
-        "mcap": 615.46,
+        "peg": 2.44,
+        "mcap": 676.79,
         "score": "高估"
       },
       "昭衍新药": {
         "code": "sh603127",
-        "price": 49.8,
-        "pe": 75.38,
-        "pb": 4.41,
+        "price": 53.54,
+        "pe": 81.04,
+        "pb": 4.74,
         "roe": 5.79,
-        "peg": 3.02,
-        "mcap": 373.18,
+        "peg": 3.24,
+        "mcap": 401.2,
         "score": "高估"
       },
       "美迪西": {
         "code": "sh688202",
-        "price": 99.86,
-        "pe": -97.46,
-        "pb": 6.85,
+        "price": 112.6,
+        "pe": -109.89,
+        "pb": 7.72,
         "roe": -7.03,
         "peg": null,
-        "mcap": 134.16,
+        "mcap": 151.28,
         "score": "—"
       }
     },
@@ -13195,7 +13219,7 @@
       },
       "保守区": {
         "pe": 21,
-        "price": 153.0,
+        "price": 152.0,
         "color": "#8b949e"
       },
       "合理区": {
@@ -13260,11 +13284,11 @@
     }
   ],
   "financials": {
-    "pe_ttm": 22.58,
-    "pb": 5.87,
+    "pe_ttm": 23.57,
+    "pb": 6.13,
     "roe": 26.0,
-    "mcap": 4893.36,
-    "price": 164.0,
+    "mcap": 5107.0,
+    "price": 171.16,
     "quarters": [
       {
         "period": "2024Q1",
@@ -13347,7 +13371,7 @@
     "yoy_global": "WUXI 2025年全球市占率约 37-38% (SNE Research)",
     "trend": "国内市占率稳定在44-46%区间，全球龙头地位稳固"
   },
-  "ah_premium": -12.1,
+  "ah_premium": -11.91,
   "ah_history": [
     {
       "date": "2023-08-02",
@@ -18367,17 +18391,17 @@
       "h_close": 202.0,
       "h_cny": 185.84,
       "premium": -11.75
+    },
+    {
+      "date": "2026-08-20",
+      "a_close": 171.16,
+      "h_close": 211.8,
+      "h_cny": 194.86,
+      "premium": -12.16
     }
   ],
-  "ah_mean30": -13.17,
+  "ah_mean30": -13.19,
   "ah_7day": [
-    {
-      "date": "2026-08-11",
-      "a_close": 160.21,
-      "h_close": 199.1,
-      "h_cny": 183.17,
-      "premium": -12.54
-    },
     {
       "date": "2026-08-12",
       "a_close": 159.04,
@@ -18419,6 +18443,13 @@
       "h_close": 202.0,
       "h_cny": 185.84,
       "premium": -11.75
+    },
+    {
+      "date": "2026-08-20",
+      "a_close": 171.16,
+      "h_close": 211.8,
+      "h_cny": 194.86,
+      "premium": -12.16
     }
   ],
   "ah_min": -17.21,
@@ -18426,175 +18457,175 @@
   "ah_ranking": {
     "peers": [
       {
-        "name": "潍柴动力",
-        "a_price": 28.38,
-        "h_price": 35.3,
-        "premium": -12.61,
-        "h_cny": 32.48
+        "name": "招商银行",
+        "a_price": 38.62,
+        "h_price": 48.7,
+        "premium": -13.8,
+        "h_cny": 44.8
       },
       {
         "name": "药明康德",
-        "a_price": 164.0,
-        "h_price": 202.8,
-        "premium": -12.1,
-        "h_cny": 186.58
+        "a_price": 171.16,
+        "h_price": 211.2,
+        "premium": -11.91,
+        "h_cny": 194.3
       },
       {
-        "name": "招商银行",
-        "a_price": 39.15,
-        "h_price": 48.0,
-        "premium": -11.35,
-        "h_cny": 44.16
-      },
-      {
-        "name": "紫金矿业",
-        "a_price": 32.76,
-        "h_price": 35.5,
-        "premium": 0.31,
-        "h_cny": 32.66
+        "name": "潍柴动力",
+        "a_price": 28.36,
+        "h_price": 32.2,
+        "premium": -4.27,
+        "h_cny": 29.62
       },
       {
         "name": "中国平安",
-        "a_price": 52.08,
-        "h_price": 53.9,
-        "premium": 5.03,
-        "h_cny": 49.59
-      },
-      {
-        "name": "比亚迪",
-        "a_price": 88.66,
-        "h_price": 90.0,
-        "premium": 7.08,
-        "h_cny": 82.8
-      },
-      {
-        "name": "海螺水泥",
-        "a_price": 17.46,
-        "h_price": 17.2,
-        "premium": 10.34,
-        "h_cny": 15.82
+        "a_price": 51.76,
+        "h_price": 54.3,
+        "premium": 3.61,
+        "h_cny": 49.96
       },
       {
         "name": "福耀玻璃",
-        "a_price": 57.9,
-        "h_price": 56.75,
-        "premium": 10.9,
-        "h_cny": 52.21
+        "a_price": 57.04,
+        "h_price": 58.3,
+        "premium": 6.35,
+        "h_cny": 53.64
+      },
+      {
+        "name": "紫金矿业",
+        "a_price": 34.35,
+        "h_price": 34.9,
+        "premium": 6.98,
+        "h_cny": 32.11
+      },
+      {
+        "name": "比亚迪",
+        "a_price": 90.4,
+        "h_price": 89.4,
+        "premium": 9.91,
+        "h_cny": 82.25
+      },
+      {
+        "name": "海螺水泥",
+        "a_price": 17.5,
+        "h_price": 17.22,
+        "premium": 10.46,
+        "h_cny": 15.84
       },
       {
         "name": "中国神华",
-        "a_price": 46.52,
-        "h_price": 43.64,
-        "premium": 15.87,
-        "h_cny": 40.15
+        "a_price": 46.15,
+        "h_price": 44.28,
+        "premium": 13.29,
+        "h_cny": 40.74
       },
       {
         "name": "工商银行",
-        "a_price": 7.8,
-        "h_price": 7.275,
-        "premium": 16.54,
-        "h_cny": 6.69
+        "a_price": 7.72,
+        "h_price": 7.385,
+        "premium": 13.63,
+        "h_cny": 6.79
       },
       {
         "name": "中国石油",
-        "a_price": 11.21,
-        "h_price": 9.805,
-        "premium": 24.27,
-        "h_cny": 9.02
+        "a_price": 10.93,
+        "h_price": 9.965,
+        "premium": 19.22,
+        "h_cny": 9.17
       },
       {
         "name": "建设银行",
-        "a_price": 10.55,
-        "h_price": 8.96,
-        "premium": 27.98,
-        "h_cny": 8.24
+        "a_price": 10.48,
+        "h_price": 9.05,
+        "premium": 25.87,
+        "h_cny": 8.33
       },
       {
         "name": "青岛啤酒",
-        "a_price": 51.37,
-        "h_price": 43.56,
-        "premium": 28.18,
-        "h_cny": 40.08
+        "a_price": 51.41,
+        "h_price": 43.34,
+        "premium": 28.94,
+        "h_cny": 39.87
       },
       {
         "name": "中国中车",
-        "a_price": 6.09,
-        "h_price": 5.015,
-        "premium": 32.0,
-        "h_cny": 4.61
+        "a_price": 6.18,
+        "h_price": 5.14,
+        "premium": 30.69,
+        "h_cny": 4.73
       },
       {
         "name": "中国中铁",
-        "a_price": 4.31,
-        "h_price": 3.37,
-        "premium": 39.01,
-        "h_cny": 3.1
+        "a_price": 4.33,
+        "h_price": 3.34,
+        "premium": 40.91,
+        "h_cny": 3.07
       },
       {
         "name": "中芯国际",
-        "a_price": 128.01,
-        "h_price": 75.85,
-        "premium": 83.44,
-        "h_cny": 69.78
+        "a_price": 126.49,
+        "h_price": 73.0,
+        "premium": 88.34,
+        "h_cny": 67.16
       }
     ],
     "rank": 2,
     "total": 16,
-    "wuxi_premium": -12.1,
+    "wuxi_premium": -11.91,
     "is_extreme": false
   },
   "peg_growth_source": "analyst",
   "peg_growth_rate": 14.5,
-  "peg": 1.56,
+  "peg": 1.63,
   "peg_signal": {
     "text": "偏高区间 ⚠️",
     "color": "#f85149",
     "level": "sell"
   },
-  "upstream_avg_change": -5.07,
-  "competitor_avg_change": -4.35,
+  "upstream_avg_change": 3.4,
+  "competitor_avg_change": 9.44,
   "summaries": {
     "mas": {
-      "MA5": 163.93,
-      "MA20": 144.78,
-      "MA60": 122.64
+      "MA5": 165.69,
+      "MA20": 146.97,
+      "MA60": 123.8
     },
     "ma60_dist": {
-      "value": 122.64,
-      "dist_pct": 33.72,
-      "text": "距MA60 +33.72%",
+      "value": 123.8,
+      "dist_pct": 38.26,
+      "text": "距MA60 +38.26%",
       "near": false
     },
     "streak": {
       "days": 1,
       "pct": 0.0,
-      "direction": "跌",
-      "text": "连跌1日 累计-0.0%"
+      "direction": "涨",
+      "text": "连涨1日 累计+0.0%"
     },
-    "chg_5d": 1.03,
-    "chg_10d": 14.93,
-    "chg_20d": 28.68,
+    "chg_5d": 7.49,
+    "chg_10d": 10.55,
+    "chg_20d": 36.93,
     "volume_ratio": {
-      "ratio": 91.78,
-      "text": "量能91.8x均量"
+      "ratio": 101.83,
+      "text": "量能101.8x均量"
     },
     "vs_market": {
-      "text": "跑赢大盘 (-1.9% vs -2.40%)",
+      "text": "跑赢大盘 (+4.4% vs +0.28%)",
       "type": "outperform",
-      "diff": 0.5
+      "diff": 4.09
     },
     "ah": {
       "level": "discount",
       "text": "A股折价港股12% 成本利好"
     },
     "peg": {
-      "value": 1.56,
-      "target_price": 105.31,
-      "distance_pct": -35.79,
+      "value": 1.63,
+      "target_price": 105.3,
+      "distance_pct": -38.48,
       "growth_rate": 14.5,
       "growth_source": "分析师一致预期 (14.5%)",
       "signal": "sell",
-      "text": "PEG=1.56 偏高 距买点差-35.8%"
+      "text": "PEG=1.63 偏高 距买点差-38.5%"
     },
     "target_pe": {
       "value": 15,
@@ -18609,8 +18640,8 @@
       "high": 131.0
     },
     "stop_loss": {
-      "price": 119.0,
-      "ma60": 123.0,
+      "price": 120.0,
+      "ma60": 124.0,
       "source": "MA60均线×0.97",
       "note": "MA60为中长期趋势生命线，跌破3%视为逻辑破坏"
     },
@@ -18627,7 +18658,7 @@
       },
       "保守区": {
         "pe": 21,
-        "price": 153.0,
+        "price": 152.0,
         "color": "#8b949e"
       },
       "合理区": {
@@ -18649,9 +18680,9 @@
       "_eps": 7.26
     },
     "pe": {
-      "value": 22.58,
+      "value": 23.57,
       "level": "偏低",
-      "text": "PE=22.6x 偏低"
+      "text": "PE=23.6x 偏低"
     },
     "fund": {
       "text": "数据暂缺",
@@ -18659,45 +18690,53 @@
       "five_day": 0
     },
     "lithium": {
-      "price": 154700.0,
-      "price_wan": 15.47,
-      "delta_wan": 7.97,
+      "price": 153480.0,
+      "price_wan": 15.35,
+      "delta_wan": 7.85,
       "impact": "成本压力",
-      "text": "CRO市场15.5万/吨 成本压力"
+      "text": "CRO市场15.3万/吨 成本压力"
     },
     "upstream_alerts": [
       {
+        "name": "泰坦科技",
+        "change": 6.28,
+        "text": "泰坦科技 +6.3%"
+      },
+      {
+        "name": "阿拉丁",
+        "change": -7.12,
+        "text": "阿拉丁 -7.1%"
+      },
+      {
+        "name": "皓元医药",
+        "change": 5.57,
+        "text": "皓元医药 +5.6%"
+      },
+      {
         "name": "毕得医药",
-        "change": -11.51,
-        "text": "毕得医药 -11.5%"
+        "change": 8.87,
+        "text": "毕得医药 +8.9%"
       }
     ],
     "amount": {
-      "value": 91.87283094,
-      "level": "交投活跃",
-      "text": "成交额92亿 交投活跃"
+      "value": 100.24664407,
+      "level": "放量明显",
+      "text": "成交额100亿 放量明显"
     },
     "industry": {
       "name": "CXO",
       "source": "CXO",
-      "change_pct": -2.76,
-      "text": "CXO(CXO) -2.8%"
+      "change_pct": 5.73,
+      "text": "CXO(CXO) +5.7%"
     },
     "cost": {
       "text": "—"
     },
-    "core_summary": "PEG 1.56 偏高 · CRO市场15.47万/吨 成本压力 · AH溢价-12.1% 折价",
-    "vs_industry": "与行业同步"
+    "core_summary": "PEG 1.63 偏高 · CRO市场15.35万/吨 成本压力 · AH溢价-11.9% 折价",
+    "vs_industry": "弱于行业1.4%"
   },
   "week_review": {
     "days": [
-      {
-        "date": "2026-08-13",
-        "close": 162.33,
-        "change_pct": 2.07,
-        "fund_net": null,
-        "events": "强势上涨"
-      },
       {
         "date": "2026-08-14",
         "close": 159.24,
@@ -18724,60 +18763,67 @@
         "close": 164.0,
         "change_pct": -1.9,
         "fund_net": null,
-        "events": "放量下跌，盘中触及关键位"
+        "events": "放量下跌"
+      },
+      {
+        "date": "2026-08-20",
+        "close": 171.16,
+        "change_pct": 4.37,
+        "fund_net": null,
+        "events": "强势上涨，盘中触及关键位"
       }
     ],
     "total": {
-      "close": 164.0,
-      "week_chg": 1.03,
+      "close": 171.16,
+      "week_chg": 7.49,
       "week_fund": 0
     },
-    "summary": "本周WUXI累计上涨1.0%，2天下跌。\n\n每日涨跌: +2.1% → -1.9% → +4.8% → +0.2% → -1.9%\n\n📊 宁德跑赢大盘（周+1.0% vs 上证-2.4%），独立走强。\n\n💰 主力资金本周基本平衡（东财数据暂缺，待恢复后更新）。\n\n📏 当前PE=22.6x，PEG=1.56，估值偏高，需注意风险。\n\n📐 MA60=¥123，距MA60还有33.7%距离，下方有支撑。\n\n💱 AH溢价-12.1%（A股折价港股），意味着A股比港股便宜12%，对A股持有者是成本端利好。\n\n⛏️ CRO市场15.5万/吨 成本压力——原材料成本上行，短期压缩利润空间。\n\n💡 估值偏高+趋势偏弱，建议观望为主，耐心等待PEG回到1.0以下的买入区间。",
+    "summary": "本周WUXI累计上涨7.5%，2天下跌。\n\n每日涨跌: -1.9% → +4.8% → +0.2% → -1.9% → +4.4%\n\n📊 宁德跑赢大盘（周+7.5% vs 上证+0.3%），独立走强。\n\n💰 主力资金本周基本平衡（东财数据暂缺，待恢复后更新）。\n\n📏 当前PE=23.6x，PEG=1.63，估值偏高，需注意风险。\n\n📐 MA60=¥124，距MA60还有38.3%距离，下方有支撑。\n\n💱 AH溢价-11.9%（A股折价港股），意味着A股比港股便宜12%，对A股持有者是成本端利好。\n\n⛏️ CRO市场15.3万/吨 成本压力——原材料成本上行，短期压缩利润空间。\n\n💡 估值偏高+趋势偏弱，建议观望为主，耐心等待PEG回到1.0以下的买入区间。",
     "trend_desc": "偏强震荡，买盘积极",
     "fund_desc": "主力资金基本平衡"
   },
   "summary": {
     "mas": {
-      "MA5": 163.93,
-      "MA20": 144.78,
-      "MA60": 122.64
+      "MA5": 165.69,
+      "MA20": 146.97,
+      "MA60": 123.8
     },
     "ma60_dist": {
-      "value": 122.64,
-      "dist_pct": 33.72,
-      "text": "距MA60 +33.72%",
+      "value": 123.8,
+      "dist_pct": 38.26,
+      "text": "距MA60 +38.26%",
       "near": false
     },
     "streak": {
       "days": 1,
       "pct": 0.0,
-      "direction": "跌",
-      "text": "连跌1日 累计-0.0%"
+      "direction": "涨",
+      "text": "连涨1日 累计+0.0%"
     },
-    "chg_5d": 1.03,
-    "chg_10d": 14.93,
-    "chg_20d": 28.68,
+    "chg_5d": 7.49,
+    "chg_10d": 10.55,
+    "chg_20d": 36.93,
     "volume_ratio": {
-      "ratio": 91.78,
-      "text": "量能91.8x均量"
+      "ratio": 101.83,
+      "text": "量能101.8x均量"
     },
     "vs_market": {
-      "text": "跑赢大盘 (-1.9% vs -2.40%)",
+      "text": "跑赢大盘 (+4.4% vs +0.28%)",
       "type": "outperform",
-      "diff": 0.5
+      "diff": 4.09
     },
     "ah": {
       "level": "discount",
       "text": "A股折价港股12% 成本利好"
     },
     "peg": {
-      "value": 1.56,
-      "target_price": 105.31,
-      "distance_pct": -35.79,
+      "value": 1.63,
+      "target_price": 105.3,
+      "distance_pct": -38.48,
       "growth_rate": 14.5,
       "growth_source": "分析师一致预期 (14.5%)",
       "signal": "sell",
-      "text": "PEG=1.56 偏高 距买点差-35.8%"
+      "text": "PEG=1.63 偏高 距买点差-38.5%"
     },
     "target_pe": {
       "value": 15,
@@ -18792,8 +18838,8 @@
       "high": 131.0
     },
     "stop_loss": {
-      "price": 119.0,
-      "ma60": 123.0,
+      "price": 120.0,
+      "ma60": 124.0,
       "source": "MA60均线×0.97",
       "note": "MA60为中长期趋势生命线，跌破3%视为逻辑破坏"
     },
@@ -18810,7 +18856,7 @@
       },
       "保守区": {
         "pe": 21,
-        "price": 153.0,
+        "price": 152.0,
         "color": "#8b949e"
       },
       "合理区": {
@@ -18832,9 +18878,9 @@
       "_eps": 7.26
     },
     "pe": {
-      "value": 22.58,
+      "value": 23.57,
       "level": "偏低",
-      "text": "PE=22.6x 偏低"
+      "text": "PE=23.6x 偏低"
     },
     "fund": {
       "text": "数据暂缺",
@@ -18842,35 +18888,50 @@
       "five_day": 0
     },
     "lithium": {
-      "price": 154700.0,
-      "price_wan": 15.47,
-      "delta_wan": 7.97,
+      "price": 153480.0,
+      "price_wan": 15.35,
+      "delta_wan": 7.85,
       "impact": "成本压力",
-      "text": "CRO市场15.5万/吨 成本压力"
+      "text": "CRO市场15.3万/吨 成本压力"
     },
     "upstream_alerts": [
       {
+        "name": "泰坦科技",
+        "change": 6.28,
+        "text": "泰坦科技 +6.3%"
+      },
+      {
+        "name": "阿拉丁",
+        "change": -7.12,
+        "text": "阿拉丁 -7.1%"
+      },
+      {
+        "name": "皓元医药",
+        "change": 5.57,
+        "text": "皓元医药 +5.6%"
+      },
+      {
         "name": "毕得医药",
-        "change": -11.51,
-        "text": "毕得医药 -11.5%"
+        "change": 8.87,
+        "text": "毕得医药 +8.9%"
       }
     ],
     "amount": {
-      "value": 91.87283094,
-      "level": "交投活跃",
-      "text": "成交额92亿 交投活跃"
+      "value": 100.24664407,
+      "level": "放量明显",
+      "text": "成交额100亿 放量明显"
     },
     "industry": {
       "name": "CXO",
       "source": "CXO",
-      "change_pct": -2.76,
-      "text": "CXO(CXO) -2.8%"
+      "change_pct": 5.73,
+      "text": "CXO(CXO) +5.7%"
     },
     "cost": {
       "text": "—"
     },
-    "core_summary": "PEG 1.56 偏高 · CRO市场15.47万/吨 成本压力 · AH溢价-12.1% 折价",
-    "vs_industry": "与行业同步"
+    "core_summary": "PEG 1.63 偏高 · CRO市场15.35万/吨 成本压力 · AH溢价-11.9% 折价",
+    "vs_industry": "弱于行业1.4%"
   },
-  "pushed_at": "2026-08-20 08:02:22"
+  "pushed_at": "2026-08-20 11:42:55"
 }
