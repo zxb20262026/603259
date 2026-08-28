@@ -1,6 +1,6 @@
 {
   "date": "2026-08-28",
-  "datetime": "2026-08-28 11:41:46",
+  "datetime": "2026-08-28 12:09:37",
   "mode": "早报 ☀️",
   "wuxi_a": {
     "name": "药明康德",
@@ -15,9 +15,9 @@
     "change_pct": -1.18
   },
   "wuxi_h": {
-    "price": 197.3,
+    "price": 197.6,
     "prev_close": 199.0,
-    "change_pct": -0.854
+    "change_pct": -0.704
   },
   "wuxi_pe": {
     "pe_ttm": 21.76
@@ -12767,10 +12767,10 @@
     {
       "date": "2026-08-28",
       "open": 199.2,
-      "close": 197.3,
+      "close": 197.6,
       "high": 202.6,
       "low": 195.8,
-      "volume": 1121529.0
+      "volume": 1151629.0
     }
   ],
   "market": {
@@ -13212,47 +13212,128 @@
         "price": 109.0,
         "color": "#3fb950"
       },
-      "止损区": {
+      "低估区": {
         "pe": 18,
         "price": 131.0,
         "color": "#58a6ff"
       },
-      "保守区": {
+      "合理区": {
         "pe": 21,
         "price": 153.0,
-        "color": "#8b949e"
-      },
-      "合理区": {
-        "pe": 25,
-        "price": 182.0,
         "color": "#d29922"
       },
       "偏高区": {
+        "pe": 24,
+        "price": 174.0,
+        "color": "#f85149"
+      },
+      "高估区": {
+        "pe": 27,
+        "price": 196.0,
+        "color": "#f85149"
+      },
+      "泡沫区": {
         "pe": 30,
         "price": 218.0,
         "color": "#f85149"
       },
-      "泡沫区": {
-        "pe": 35,
-        "price": 254.0,
-        "color": "#f85149"
-      },
-      "_current": "合理区",
+      "_current": "偏高区",
       "_eps": 7.26
     },
     "institution": {
-      "buy": 9,
-      "overweight": 2,
+      "buy": 33,
+      "overweight": 4,
       "neutral": 0,
       "sell": 0,
-      "target_avg": 520.0,
+      "target_avg": 162.0,
       "dividend_rate": 1.2,
       "dividend_yield": 0.38
     }
   },
   "week_flow": [],
-  "analyst_consensus": null,
-  "analyst_targets": null,
+  "analyst_consensus": {
+    "periods": [
+      {
+        "window": "1月内",
+        "rating": "买入",
+        "rating_num": 4.875,
+        "org_num": 32,
+        "buy_num": 28,
+        "add_num": 4,
+        "neutral_num": null,
+        "reduce_num": null,
+        "sale_num": null
+      },
+      {
+        "window": "2月内",
+        "rating": "买入",
+        "rating_num": 4.875,
+        "org_num": 32,
+        "buy_num": 28,
+        "add_num": 4,
+        "neutral_num": null,
+        "reduce_num": null,
+        "sale_num": null
+      },
+      {
+        "window": "3月内",
+        "rating": "买入",
+        "rating_num": 4.878787878788,
+        "org_num": 33,
+        "buy_num": 29,
+        "add_num": 4,
+        "neutral_num": null,
+        "reduce_num": null,
+        "sale_num": null
+      },
+      {
+        "window": "6月内",
+        "rating": "买入",
+        "rating_num": 4.882352941176,
+        "org_num": 34,
+        "buy_num": 30,
+        "add_num": 4,
+        "neutral_num": null,
+        "reduce_num": null,
+        "sale_num": null
+      },
+      {
+        "window": "1年内",
+        "rating": "买入",
+        "rating_num": 4.891891891892,
+        "org_num": 37,
+        "buy_num": 33,
+        "add_num": 4,
+        "neutral_num": null,
+        "reduce_num": null,
+        "sale_num": null
+      }
+    ],
+    "latest": {
+      "window": "1月内",
+      "rating": "买入",
+      "rating_num": 4.875,
+      "org_num": 32,
+      "buy_num": 28,
+      "add_num": 4,
+      "neutral_num": null,
+      "reduce_num": null,
+      "sale_num": null
+    }
+  },
+  "analyst_targets": {
+    "eps_curr": 6.418277830888,
+    "eps_next": 7.347212121212,
+    "eps_far": 8.955121212121,
+    "target_low": 147.0,
+    "target_mid": 162.0,
+    "target_high": 184.0,
+    "implied_pe": 21.7,
+    "avg": 160.0,
+    "high": 184.0,
+    "low": 147.0,
+    "count": 24
+  },
   "analyst_eps": [
     {
       "year": 2025,
@@ -13371,7 +13452,7 @@
     "yoy_global": "WUXI 2025年全球市占率约 37-38% (SNE Research)",
     "trend": "国内市占率稳定在44-46%区间，全球龙头地位稳固"
   },
-  "ah_premium": -12.92,
+  "ah_premium": -13.05,
   "ah_history": [
     {
       "date": "2023-08-10",
@@ -18395,12 +18476,12 @@
     {
       "date": "2026-08-28",
       "a_close": 158.06,
-      "h_close": 197.3,
-      "h_cny": 181.52,
-      "premium": -12.92
+      "h_close": 197.6,
+      "h_cny": 181.79,
+      "premium": -13.05
     }
   ],
-  "ah_mean30": -13.08,
+  "ah_mean30": -13.09,
   "ah_7day": [
     {
       "date": "2026-08-20",
@@ -18447,9 +18528,9 @@
     {
       "date": "2026-08-28",
       "a_close": 158.06,
-      "h_close": 197.3,
-      "h_cny": 181.52,
-      "premium": -12.92
+      "h_close": 197.6,
+      "h_cny": 181.79,
+      "premium": -13.05
     }
   ],
   "ah_min": -17.21,
@@ -18466,9 +18547,9 @@
       {
         "name": "药明康德",
         "a_price": 158.06,
-        "h_price": 197.3,
-        "premium": -12.92,
-        "h_cny": 181.52
+        "h_price": 197.6,
+        "premium": -13.05,
+        "h_cny": 181.79
       },
       {
         "name": "潍柴动力",
@@ -18571,7 +18652,7 @@
     ],
     "rank": 2,
     "total": 16,
-    "wuxi_premium": -12.92,
+    "wuxi_premium": -13.05,
     "is_extreme": false
   },
   "peg_growth_source": "analyst",
@@ -18651,32 +18732,32 @@
         "price": 109.0,
         "color": "#3fb950"
       },
-      "止损区": {
+      "低估区": {
         "pe": 18,
         "price": 131.0,
         "color": "#58a6ff"
       },
-      "保守区": {
+      "合理区": {
         "pe": 21,
         "price": 153.0,
-        "color": "#8b949e"
-      },
-      "合理区": {
-        "pe": 25,
-        "price": 182.0,
         "color": "#d29922"
       },
       "偏高区": {
+        "pe": 24,
+        "price": 174.0,
+        "color": "#f85149"
+      },
+      "高估区": {
+        "pe": 27,
+        "price": 196.0,
+        "color": "#f85149"
+      },
+      "泡沫区": {
         "pe": 30,
         "price": 218.0,
         "color": "#f85149"
       },
-      "泡沫区": {
-        "pe": 35,
-        "price": 254.0,
-        "color": "#f85149"
-      },
-      "_current": "合理区",
+      "_current": "偏高区",
       "_eps": 7.26
     },
     "pe": {
@@ -18711,7 +18792,7 @@
     "cost": {
       "text": "—"
     },
-    "core_summary": "PEG 1.5 · CRO市场15.86万/吨 成本压力 · AH溢价-12.9% 折价 · 逆势下跌 分化延续",
+    "core_summary": "PEG 1.5 · CRO市场15.86万/吨 成本压力 · AH溢价-13.1% 折价 · 逆势下跌 分化延续",
     "vs_industry": "与行业同步"
   },
   "week_review": {
@@ -18757,7 +18838,7 @@
       "week_chg": 1.42,
       "week_fund": 0
     },
-    "summary": "本周WUXI累计上涨1.4%，3天下跌。\n\n每日涨跌: -4.3% → +3.3% → -1.1% → +0.4% → -1.2%\n\n⚠️ 跌幅仍在扩大（前半周-0.5% → 后半周-0.6%），抛压尚未释放完毕。\n\n📊 宁德跑赢大盘（周+1.4% vs 上证+0.1%），独立走强。\n\n💰 主力资金本周基本平衡（东财数据暂缺，待恢复后更新）。\n\n📏 当前PE=21.8x，PEG=1.50，估值偏高，需注意风险。\n\n📐 MA60=¥130，距MA60还有21.8%距离，下方有支撑。\n\n💱 AH溢价-12.9%（A股折价港股），意味着A股比港股便宜13%，对A股持有者是成本端利好。\n\n⛏️ CRO市场15.9万/吨 成本压力——原材料成本上行，短期压缩利润空间。\n\n💡 估值偏高+趋势偏弱，建议观望为主，耐心等待PEG回到1.0以下的买入区间。",
+    "summary": "本周WUXI累计上涨1.4%，3天下跌。\n\n每日涨跌: -4.3% → +3.3% → -1.1% → +0.4% → -1.2%\n\n⚠️ 跌幅仍在扩大（前半周-0.5% → 后半周-0.6%），抛压尚未释放完毕。\n\n📊 宁德跑赢大盘（周+1.4% vs 上证+0.1%），独立走强。\n\n💰 主力资金本周基本平衡（东财数据暂缺，待恢复后更新）。\n\n📏 当前PE=21.8x，PEG=1.50，估值偏高，需注意风险。\n\n📐 MA60=¥130，距MA60还有21.8%距离，下方有支撑。\n\n💱 AH溢价-13.1%（A股折价港股），意味着A股比港股便宜13%，对A股持有者是成本端利好。\n\n⛏️ CRO市场15.9万/吨 成本压力——原材料成本上行，短期压缩利润空间。\n\n💡 估值偏高+趋势偏弱，建议观望为主，耐心等待PEG回到1.0以下的买入区间。",
     "trend_desc": "偏弱震荡，卖压占优",
     "fund_desc": "主力资金基本平衡"
   },
@@ -18828,32 +18909,32 @@
         "price": 109.0,
         "color": "#3fb950"
       },
-      "止损区": {
+      "低估区": {
         "pe": 18,
         "price": 131.0,
         "color": "#58a6ff"
       },
-      "保守区": {
+      "合理区": {
         "pe": 21,
         "price": 153.0,
-        "color": "#8b949e"
-      },
-      "合理区": {
-        "pe": 25,
-        "price": 182.0,
         "color": "#d29922"
       },
       "偏高区": {
+        "pe": 24,
+        "price": 174.0,
+        "color": "#f85149"
+      },
+      "高估区": {
+        "pe": 27,
+        "price": 196.0,
+        "color": "#f85149"
+      },
+      "泡沫区": {
         "pe": 30,
         "price": 218.0,
         "color": "#f85149"
       },
-      "泡沫区": {
-        "pe": 35,
-        "price": 254.0,
-        "color": "#f85149"
-      },
-      "_current": "合理区",
+      "_current": "偏高区",
       "_eps": 7.26
     },
     "pe": {
@@ -18888,8 +18969,8 @@
     "cost": {
       "text": "—"
     },
-    "core_summary": "PEG 1.5 · CRO市场15.86万/吨 成本压力 · AH溢价-12.9% 折价 · 逆势下跌 分化延续",
+    "core_summary": "PEG 1.5 · CRO市场15.86万/吨 成本压力 · AH溢价-13.1% 折价 · 逆势下跌 分化延续",
     "vs_industry": "与行业同步"
   },
-  "pushed_at": "2026-08-28 11:42:02"
+  "pushed_at": "2026-08-28 12:09:50"
 }
